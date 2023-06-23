@@ -1,0 +1,18 @@
+
+body{
+    font-family: Vazir;
+    text-align: right;
+    direction: rtl;
+    font-weight: 300;
+
+}
+
+.carousel-item{
+    height: 560px;
+    background-color: #777;
+}
+
+.carousel-caption{
+    bottom: 6rem;
+}
+
